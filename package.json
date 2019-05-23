@@ -5,9 +5,9 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/slemv/dva-taro"
+    "url": "https://github.com/slmev/dva-taro"
   },
-  "homepage": "https://github.com/slemv/dva-taro",
+  "homepage": "https://github.com/slmev/dva-taro",
   "keywords": [
     "dva",
     "taro",
@@ -15,7 +15,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/slemv/dva-taro/issues"
+    "url": "https://github.com/slmev/dva-taro/issues"
   },
   "scripts": {
     "build": "babel src --out-dir lib",
